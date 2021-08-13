@@ -1,0 +1,13 @@
+{
+  "name": "learn-webpack",
+  "version": "1.0.0",
+  "description": "学习webpack记录",
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  },
+  "author": "GaryHjy <782316959@qq.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
