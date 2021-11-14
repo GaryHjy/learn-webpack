@@ -1,7 +1,6 @@
 
 function simpleLoader(content, map, meta) {
-  console.log("我是 simpleLoader")
-  return content;
+  return `${content}哈哈哈哈哈`;
 }
 
 module.exports = simpleLoader;
